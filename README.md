@@ -1,7 +1,7 @@
 # Cultura-digital-semana-5
 Actividad práctica de la semana 5
 
-Este algoritmo en R es una aplicación de un modelo de regresión lineal simple aplicado al dataset "Women"; en este se realizaron:
+Este algoritmo en R es una aplicación de un modelo de regresión lineal simple aplicado al dataset "Women" propio de R; en este se realizaron:
 - Carga y visualización de datos
 - Identificación de valores atípicos mediante boxplots
 - Creación del modelo
